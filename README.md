@@ -1,13 +1,24 @@
-# 14 Dataset Sources for Machine Learning and Deep Learning
+---
+# **PyCaret for Machine Learning**
 
-14 free dataset sources for Machine Learning and Deep Learning applications
+- It is a bundle of many Machine Learning algorithms.
+- Only three lines of code is required to compare 20 ML models.
+- Pycaret is available for:
+	- Classification
+	- Regression
+	- Clustering
 
-1. Google Dataset Search – A search engine for datasets:   https://datasetsearch.research.google.com/
-2. IBM’s collection of datasets for enterprise applications:  https://developer.ibm.com/exchanges/data/
-3. Kaggle Datasets: https://www.kaggle.com/datasets
-4. Huggingface Datasets – A Python library for loading NLP datasets: https://huggingface.co/datasets
-5. A large list organized by application domain: https://github.com/awesomedata/awesome-public-datasets
-6. Computer Vision Datasets (a really large list): https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
-7. Datasetlist – Datasets by domain: https://www.datasetlist.com/
+---
+### **1. Self Learning Resource**
 
+Tutorial on Pycaret for Regression, Classification and Clustering <a href="https://pycaret.readthedocs.io/en/latest/tutorials.html"> Click Here</a>
+
+
+---
+### **2. In this tutorial we will learn**
+---
+- Getting Data: How to import data from PyCaret repository
+- Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
+- Create Model: How to create a model, perform cross validation and evaluate regression metrics
+- Tune Model: How to automatically tune the hyperparameters of a regression model
 
